@@ -1,4 +1,4 @@
-const countries = [
+const oldcountries = [
   {
     name: 'Afghanistan',
     capital: 'Kabul',
